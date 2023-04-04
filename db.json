@@ -1,0 +1,119 @@
+{ "driver": [
+{
+  "driverid":"1",
+  "firstname":"Marry",
+  "lastname":"Magdalene",
+  "email":"Marrymagie12@gmail.com",
+  "phonenumber":"+254794471058",
+  "picture":"maxresdefault.jpg",
+  "cartype":"Beamer"
+},
+
+{
+  "driverid":"2",
+  "firstname":"Chris",
+  "lastname":"Kibiru",
+  "email":"chriskibiroro@gmail.com",
+  "phonenumber":"+25415550000",
+  "picture":"11269cdbc4ca48868194bde4078d25bc.jpg",
+  "cartype":"Bently"
+},
+
+{
+  "driverid":"3",
+  "firstname":"Melvin",
+  "lastname":"James",
+  "email":"melajamo2@gmail.com",
+  "phonenumber":"+254755678967",
+  "picture":"maxresdefault (1).jpg",
+  "cartype":"aston martin"
+},
+{
+  "driverid":"4",
+  "firstname":"Santa",
+  "lastname":"Clause",
+  "email":"santaconja@gmail.com",
+  "phonenumber":"+254672543247",
+  "picture":"2008-Rolls-Royce-Phantom-18-1024x555.jpg",
+  "cartype":"Rolce royce"
+},
+
+{
+  "driverid":"5",
+  "firstname":"Bat",
+  "lastname":"Man",
+  "email":"batmobile@gmail.com",
+  "phonenumber":"+14155550000",
+  "picture":"2018-dodge-challenger-srt-hellcat-widebody-driven-review-dclosing-shot.jpg",
+  "cartype":"hellcat"
+},
+
+{
+  "driverid":"6",
+  "firstname":"Super",
+  "lastname":"Man",
+  "email":"supertenje@gmail.com",
+  "phonenumber":"+14155550000",
+  "picture":"U00041378118_001L.jpeg",
+  "cartype":"G-wagon"
+},
+
+{
+  "driverid":"7",
+  "firstname":"master",
+  "lastname":"Splinter",
+  "email":"makungfu@gmail.com",
+  "phonenumber":"+14155550000",
+  "picture":"ecbb4580c85ae35b404f9f01a8df4d7162b83054.jpeg",
+  "cartype":"Rubicon"
+},
+{
+  "driverid":"8",
+  "firstname":"johnson",
+  "lastname":"Sakaja",
+  "email":"johnsaka@gmail.com",
+  "phonenumber":"+14155550000",
+  "picture":"audi-r8-audi-car-luxury-wallpaper-preview.jpg",
+  "cartype":"audi"
+},
+
+{
+  "driverid":"9",
+  "firstname":"Odoguw",
+  "lastname":"Burner",
+  "email":"shayooo@gmail.com",
+  "phonenumber":"+14155550000",
+  "picture":"190321-car-ferrari-f8-spider (1).jpg",
+  "cartype":"ferrari"
+},
+
+{
+  "driverid":"10",
+  "firstname":"Elon",
+  "lastname":"Musk",
+  "email":"spacevisionary@gmail.com",
+  "phonenumber":"+14155550000",
+  "picture":"images.jpeg",
+  "cartype":"tesla"
+},
+
+{
+  "driverid":"11",
+  "firstname":"Ant",
+  "lastname":"Man",
+  "email":"auntyman@gmail.com",
+  "phonenumber":"+14155550000",
+  "picture":"07e729d86f2b47eab06f8d92f01d9069.jpg",
+  "cartype":"volkswagon"
+  
+},
+ {"driverid":"12",
+  "firstname":"Gladys",
+  "lastname":"Nyaboke",
+  "email":"auntyman@gmail.com",
+  "phonenumber":"+14155550000",
+  "picture":"07e729d86f2b47eab06f8d92f01d9069.jpg",
+  "cartype":"volkswagon"
+}
+]
+}
