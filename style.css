@@ -124,11 +124,25 @@ label {
 display:inline-table;
 height: 150px;
 width: 150px;
-background-color: rgb(118, 54, 8);
+background-color: rgb(0, 0, 0);
 margin: 2rem;
 padding: 20px;
+border: 1px solid #ccc;
+  border-radius: 40px;
+  background-color: #fffefd;
+  box-shadow: 0 7px 10px 0 rgba(255, 255, 255, 0.915);
+  position: relative; 
 }
-.drivers{
 
-  background-color: rgb(6, 6, 6);
+.card:hover {
+  font-size: 20px;
+  color: rgba(210, 84, 0, 0.894);
+}
+
+
+
+
+.drivers{
+    background-image:url(david-jorre-oQbLeq4nOek-unsplash.jpg); /* Adjust the file path and name as needed */
+    background-size: 60%;
 }
