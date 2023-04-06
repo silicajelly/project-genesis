@@ -45,18 +45,7 @@ fetch("http://localhost:3000/driver")
 
         inside.appendChild(card);
     
+     
      }
-     } )
-   
-// //POST request to create a new cabs
-// function createdriver(driver) {
-//   return fetch("http://localhost:3000/driver", {
-//       method: 'POST',
-//       headers: { 'Content-Type': 'application/json' },
-//       body: JSON.stringify(DRIVER)
-//     })
-//     .then(response => response.json())
-//     .catch(error => console.error(error));
-  
-// }
-
+    })
+    
