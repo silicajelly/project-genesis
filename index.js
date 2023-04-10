@@ -48,4 +48,21 @@ fetch("http://localhost:3000/driver")
      
      }
     })
-    
+    const deleteButton = document.getElementById(`deleteid-${i}`);
+      deleteButton.addEventListener("click", () => {
+        
+        console.log("Delete button clicked for driver:", data[i]);
+        card.remove();
+      });
+
+function handleSubmit(event) {
+  event.preventDefault(); 
+
+  const name = document.getElementById("name").value;
+  const email = document.getElementById("email").value;
+  const message = document.getElementById("message").value;
+
+  console.log(name, email, message);
+
+  form.reset();
+}
